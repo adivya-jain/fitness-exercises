@@ -1,10 +1,15 @@
 import React from 'react'
+import HeroBanner from '../Components/HeroBanner';
+import SearchExercises from '../Components/SearchExercises';
+import Exercises from '../Components/Exercises';
 
 const Home = () => {
   return (
-    <div>
-      Home
-    </div>
+    <Box>
+    <HeroBanner />
+    <SearchExercises />
+    <Exercises />
+    </Box>
   )
 }
 
