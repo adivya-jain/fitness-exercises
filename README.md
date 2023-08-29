@@ -1,4 +1,4 @@
-FITNESS GETTER
+# FITNESS GETTER
 A Fitness Related website that fetches Steps to perform Searched Exercise.
 Shows Exercises Related to Searched Exercise and related YouTube Video Using API calls.
 
