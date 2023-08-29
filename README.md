@@ -1,3 +1,8 @@
+FITNESS GETTER
+A Fitness Related website that fetches Steps to perform Searched Exercise.
+Shows Exercises Related to Searched Exercise and related YouTube Video Using API calls.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
